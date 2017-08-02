@@ -1,0 +1,32 @@
+
+name: fpg
+
+version: 1.0.0
+
+port: 8080
+
+process_num: 1
+
+wsExtension: './src/test-websocket'
+
+extensions:
+  '/      > connect.query':
+  '/      > connect.json':
+  '/      > ./src/controllers/error':
+  '/      > ./src/middlewares/response':
+  '/      > ./src/index':
+    database:
+      host: fpg-mysql.com
+      port: 3306
+      user: fpg
+      password: Hello1234
+      database: fpg
+      showLog: false
+  '/      > ./src/middlewares/login':
+  '/      > ./src/middlewares/permission':
+  '/group > ./src/controllers/group':
+    __routers:
+      '              > get'  : 'getGroups'
+      '              > post' : 'createGroup'
+      '/announcement > put'  : 'setAnnouncement'
+      '/apply        > post' : 'applyGroup'

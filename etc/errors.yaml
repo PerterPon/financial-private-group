@@ -1,0 +1,15 @@
+errors:
+  UNKNOW_ERROR:
+    message : test
+    code    : 1000
+  NO_PERMISSION:
+    message : 'no permission'
+    code    : 1001
+
+
+
+
+  # group相关错误
+  WRONG_APPLY:
+    message : 'wrong apply'
+    code    : 10001

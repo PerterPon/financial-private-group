@@ -1,0 +1,819 @@
+2017-08-01 10:37:52 [ERROR] (runner/hc-cover-runner/lib/app.coffee:305) TypeError: path.match is not a function
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/cover-router/lib/index.coffee:78:22
+  at Object.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/node_modules/thunkify/index.js:43:12)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:135:8
+  at Object.thunkToPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:134:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:118:55)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.createPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:30:15)
+  at Server.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/lib/index.coffee:56:10)
+  at emitTwo (events.js:106:13)
+  at Server.emit (events.js:191:7)
+  at HTTPParser.parserOnIncoming [as onIncoming] (_http_server.js:546:12)
+  at HTTPParser.parserOnHeadersComplete (_http_common.js:99:23)
+
+2017-08-01 10:39:23 [ERROR] (runner/hc-cover-runner/lib/app.coffee:305) TypeError: path.match is not a function
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/cover-router/lib/index.coffee:79:22
+  at Object.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/node_modules/thunkify/index.js:43:12)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:135:8
+  at Object.thunkToPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:134:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:118:55)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.createPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:30:15)
+  at Server.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/lib/index.coffee:56:10)
+  at emitTwo (events.js:106:13)
+  at Server.emit (events.js:191:7)
+  at HTTPParser.parserOnIncoming [as onIncoming] (_http_server.js:546:12)
+  at HTTPParser.parserOnHeadersComplete (_http_common.js:99:23)
+
+2017-08-01 10:42:30 [ERROR] (runner/hc-cover-runner/lib/app.coffee:305) TypeError: path.match is not a function
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/cover-router/lib/index.coffee:80:22
+  at Object.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/node_modules/thunkify/index.js:43:12)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:135:8
+  at Object.thunkToPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:134:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:118:55)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.createPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:30:15)
+  at Server.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/lib/index.coffee:56:10)
+  at emitTwo (events.js:106:13)
+  at Server.emit (events.js:191:7)
+  at HTTPParser.parserOnIncoming [as onIncoming] (_http_server.js:546:12)
+  at HTTPParser.parserOnHeadersComplete (_http_common.js:99:23)
+
+2017-08-01 10:47:53 [ERROR] (runner/hc-cover-runner/lib/app.coffee:305) TypeError: Cannot read property 'id' of undefined
+  at /Users/Pon/Documents/Project/financial-private-group/src/controllers/group.js:37:29
+  at undefined.next (native)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:64:19)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at process._tickDomainCallback (internal/process/next_tick.js:129:7)
+
+2017-08-01 10:50:22 [ERROR] (runner/hc-cover-runner/lib/app.coffee:305) TypeError: Cannot read property 'id' of undefined
+  at /Users/Pon/Documents/Project/financial-private-group/src/controllers/group.js:40:29
+  at undefined.next (native)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:64:19)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at process._tickDomainCallback (internal/process/next_tick.js:129:7)
+
+2017-08-01 10:50:52 [ERROR] (runner/hc-cover-runner/lib/app.coffee:305) TypeError: res.data is not a function
+  at /Users/Pon/Documents/Project/financial-private-group/src/controllers/group.js:44:11
+  at undefined.next (native)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:64:19)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at process._tickDomainCallback (internal/process/next_tick.js:129:7)
+
+2017-08-01 10:51:11 [ERROR] (runner/hc-cover-runner/lib/app.coffee:305) TypeError: Cannot read property 'undefined' of null
+  at /Users/Pon/Documents/Project/financial-private-group/src/controllers/error.js:43:35
+  at undefined.throw (native)
+  at onRejected (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:80:24)
+  at process._tickDomainCallback (internal/process/next_tick.js:129:7)
+
+2017-08-01 10:51:48 [ERROR] (runner/hc-cover-runner/lib/app.coffee:305) TypeError: Cannot read property 'undefined' of null
+  at /Users/Pon/Documents/Project/financial-private-group/src/controllers/error.js:44:35
+  at undefined.throw (native)
+  at onRejected (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:80:24)
+  at process._tickDomainCallback (internal/process/next_tick.js:129:7)
+
+2017-08-01 11:15:47 [ERROR] (runner/hc-cover-runner/lib/app.coffee:305) TypeError: Cannot read property 'undefined' of null
+  at /Users/Pon/Documents/Project/financial-private-group/src/controllers/error.js:44:35
+  at undefined.throw (native)
+  at onRejected (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:80:24)
+  at process._tickDomainCallback (internal/process/next_tick.js:129:7)
+
+2017-08-01 11:25:33 [ERROR] (runner/hc-cover-runner/lib/app.coffee:305) TypeError: Cannot read property 'undefined' of null
+  at /Users/Pon/Documents/Project/financial-private-group/src/controllers/error.js:44:35
+  at undefined.throw (native)
+  at onRejected (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:80:24)
+  at process._tickDomainCallback (internal/process/next_tick.js:129:7)
+
+2017-08-01 11:26:47 [ERROR] (runner/hc-cover-runner/lib/app.coffee:305) TypeError: Cannot read property 'undefined' of null
+  at /Users/Pon/Documents/Project/financial-private-group/src/controllers/error.js:44:35
+  at undefined.throw (native)
+  at onRejected (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:80:24)
+  at process._tickDomainCallback (internal/process/next_tick.js:129:7)
+
+2017-08-01 11:26:49 [ERROR] (runner/hc-cover-runner/lib/app.coffee:305) TypeError: Cannot read property 'undefined' of null
+  at /Users/Pon/Documents/Project/financial-private-group/src/controllers/error.js:44:35
+  at undefined.throw (native)
+  at onRejected (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:80:24)
+  at process._tickDomainCallback (internal/process/next_tick.js:129:7)
+
+2017-08-01 11:27:32 [ERROR] (runner/hc-cover-runner/lib/app.coffee:305) TypeError: Cannot read property 'undefined' of null
+  at /Users/Pon/Documents/Project/financial-private-group/src/controllers/error.js:44:35
+  at undefined.throw (native)
+  at onRejected (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:80:24)
+  at process._tickDomainCallback (internal/process/next_tick.js:129:7)
+
+2017-08-01 11:28:24 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) [ERROR-MIDDLEWARE] error catched, error message: [Cannot read property 'getConnection' of null], item: [undefined]
+2017-08-01 11:28:24 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) --------------
+2017-08-01 11:28:24 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) TypeError: Cannot read property 'getConnection' of null
+  at Db._getConnection (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:234:21)
+  at Db._wrapQuery (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:274:19)
+  at Db.query (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:97:17)
+  at Group.getGroups (/Users/Pon/Documents/Project/financial-private-group/src/modules/group.js:18:8)
+  at undefined.next (native)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:64:19)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at process._tickDomainCallback (internal/process/next_tick.js:129:7)
+
+2017-08-01 11:28:26 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) [ERROR-MIDDLEWARE] error catched, error message: [Cannot read property 'getConnection' of null], item: [undefined]
+2017-08-01 11:28:26 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) --------------
+2017-08-01 11:28:26 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) TypeError: Cannot read property 'getConnection' of null
+  at Db._getConnection (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:234:21)
+  at Db._wrapQuery (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:274:19)
+  at Db.query (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:97:17)
+  at Group.getGroups (/Users/Pon/Documents/Project/financial-private-group/src/modules/group.js:18:8)
+  at undefined.next (native)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:64:19)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at process._tickDomainCallback (internal/process/next_tick.js:129:7)
+
+2017-08-01 11:28:58 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) [ERROR-MIDDLEWARE] error catched, error message: [Cannot read property 'getConnection' of null], item: [undefined]
+2017-08-01 11:28:58 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) --------------
+2017-08-01 11:28:58 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) TypeError: Cannot read property 'getConnection' of null
+  at Db._getConnection (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:234:21)
+  at Db._wrapQuery (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:274:19)
+  at Db.query (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:97:17)
+  at Group.getGroups (/Users/Pon/Documents/Project/financial-private-group/src/modules/group.js:18:8)
+  at undefined.next (native)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:64:19)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at process._tickDomainCallback (internal/process/next_tick.js:129:7)
+
+2017-08-01 11:29:53 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) [ERROR-MIDDLEWARE] error catched, error message: [Cannot read property 'getConnection' of null], item: [{"message":"test","code":1000}]
+2017-08-01 11:29:53 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) --------------
+2017-08-01 11:29:53 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) TypeError: Cannot read property 'getConnection' of null
+  at Db._getConnection (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:234:21)
+  at Db._wrapQuery (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:274:19)
+  at Db.query (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:97:17)
+  at Group.getGroups (/Users/Pon/Documents/Project/financial-private-group/src/modules/group.js:18:8)
+  at undefined.next (native)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:64:19)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at process._tickDomainCallback (internal/process/next_tick.js:129:7)
+
+2017-08-01 11:30:13 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) [ERROR-MIDDLEWARE] error catched, error message: [Cannot read property 'getConnection' of null], item: [{"message":"test","code":1000,"success":false}]
+2017-08-01 11:30:13 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) --------------
+2017-08-01 11:30:13 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) TypeError: Cannot read property 'getConnection' of null
+  at Db._getConnection (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:234:21)
+  at Db._wrapQuery (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:274:19)
+  at Db.query (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:97:17)
+  at Group.getGroups (/Users/Pon/Documents/Project/financial-private-group/src/modules/group.js:18:8)
+  at undefined.next (native)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:64:19)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at process._tickDomainCallback (internal/process/next_tick.js:129:7)
+
+2017-08-01 11:30:44 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) [ERROR-MIDDLEWARE] error catched, error message: [Cannot read property 'getConnection' of null], item: [{"message":"test","code":1000,"success":false}]
+2017-08-01 11:30:44 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) --------------
+2017-08-01 11:30:44 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) TypeError: Cannot read property 'getConnection' of null
+  at Db._getConnection (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:235:21)
+  at Db._wrapQuery (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:275:19)
+  at Db.query (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:98:17)
+  at Group.getGroups (/Users/Pon/Documents/Project/financial-private-group/src/modules/group.js:18:8)
+  at undefined.next (native)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:64:19)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at process._tickDomainCallback (internal/process/next_tick.js:129:7)
+
+2017-08-01 11:36:12 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) [ERROR-MIDDLEWARE] error catched, error message: [Cannot read property 'getConnection' of null], item: [{"message":"test","code":1000,"success":false}]
+2017-08-01 11:36:12 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) --------------
+2017-08-01 11:36:12 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) TypeError: Cannot read property 'getConnection' of null
+  at Db._getConnection (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:235:21)
+  at Db._wrapQuery (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:275:19)
+  at Db.query (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:98:17)
+  at Group.getGroups (/Users/Pon/Documents/Project/financial-private-group/src/modules/group.js:18:8)
+  at undefined.next (native)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:64:19)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at process._tickDomainCallback (internal/process/next_tick.js:129:7)
+
+2017-08-01 11:40:23 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) [ERROR-MIDDLEWARE] error catched, error message: [ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group
+LEFT JOIN
+  group_user
+ON
+  group_user.group_id = group.id
+WHERE
+  group_u' at line 2], item: [{"message":"test","code":1000,"success":false}]
+2017-08-01 11:40:23 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) --------------
+2017-08-01 11:40:23 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group
+LEFT JOIN
+  group_user
+ON
+  group_user.group_id = group.id
+WHERE
+  group_u' at line 2
+  at Query.Sequence._packetToError (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/sequences/Sequence.js:52:14)
+  at Query.ErrorPacket (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+  at Protocol._parsePacket (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Protocol.js:280:23)
+  at Parser.write (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Parser.js:76:12)
+  at Protocol.write (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+  at Socket.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/Connection.js:103:28)
+  at emitOne (events.js:96:13)
+  at Socket.emit (events.js:188:7)
+  at readableAddChunk (_stream_readable.js:176:18)
+  at Socket.Readable.push (_stream_readable.js:134:10)
+  at TCP.onread (net.js:548:20)
+
+    --------------------
+  at Protocol._enqueue (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Protocol.js:141:48)
+  at PoolConnection.query (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/Connection.js:208:25)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:298:25
+  at Db._doQuery (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:323:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:280:24
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:252:16
+  at Handshake.onConnect (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/Pool.js:64:7)
+  at Handshake.Sequence.end (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/sequences/Sequence.js:88:24)
+  at Handshake.Sequence.OkPacket (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/sequences/Sequence.js:97:8)
+  at Protocol._parsePacket (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Protocol.js:280:23)
+  at Parser.write (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Parser.js:76:12)
+  at Protocol.write (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+  at Socket.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/Connection.js:103:28)
+  at emitOne (events.js:96:13)
+  at Socket.emit (events.js:188:7)
+  at readableAddChunk (_stream_readable.js:176:18)
+  at Socket.Readable.push (_stream_readable.js:134:10)
+  at TCP.onread (net.js:548:20)
+
+2017-08-01 11:53:53 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) [ERROR-MIDDLEWARE] error catched, error message: [ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'groups.id           AS group_id
+FROM 
+  groups
+LEFT JOIN
+  group_user
+ON
+  group' at line 4], item: [{"message":"test","code":1000,"success":false}]
+2017-08-01 11:53:53 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) --------------
+2017-08-01 11:53:53 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'groups.id           AS group_id
+FROM 
+  groups
+LEFT JOIN
+  group_user
+ON
+  group' at line 4
+  at Query.Sequence._packetToError (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/sequences/Sequence.js:52:14)
+  at Query.ErrorPacket (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+  at Protocol._parsePacket (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Protocol.js:280:23)
+  at Parser.write (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Parser.js:76:12)
+  at Protocol.write (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+  at Socket.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/Connection.js:103:28)
+  at emitOne (events.js:96:13)
+  at Socket.emit (events.js:188:7)
+  at readableAddChunk (_stream_readable.js:176:18)
+  at Socket.Readable.push (_stream_readable.js:134:10)
+  at TCP.onread (net.js:548:20)
+
+    --------------------
+  at Protocol._enqueue (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Protocol.js:141:48)
+  at PoolConnection.query (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/Connection.js:208:25)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:298:25
+  at Db._doQuery (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:323:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:280:24
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:252:16
+  at Handshake.onConnect (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/Pool.js:64:7)
+  at Handshake.Sequence.end (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/sequences/Sequence.js:88:24)
+  at Handshake.Sequence.OkPacket (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/sequences/Sequence.js:97:8)
+  at Protocol._parsePacket (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Protocol.js:280:23)
+  at Parser.write (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Parser.js:76:12)
+  at Protocol.write (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+  at Socket.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/Connection.js:103:28)
+  at emitOne (events.js:96:13)
+  at Socket.emit (events.js:188:7)
+  at readableAddChunk (_stream_readable.js:176:18)
+  at Socket.Readable.push (_stream_readable.js:134:10)
+  at TCP.onread (net.js:548:20)
+
+2017-08-01 11:53:54 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) [ERROR-MIDDLEWARE] error catched, error message: [ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'groups.id           AS group_id
+FROM 
+  groups
+LEFT JOIN
+  group_user
+ON
+  group' at line 4], item: [{"message":"test","code":1000,"success":false}]
+2017-08-01 11:53:54 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) --------------
+2017-08-01 11:53:54 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'groups.id           AS group_id
+FROM 
+  groups
+LEFT JOIN
+  group_user
+ON
+  group' at line 4
+  at Query.Sequence._packetToError (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/sequences/Sequence.js:52:14)
+  at Query.ErrorPacket (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+  at Protocol._parsePacket (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Protocol.js:280:23)
+  at Parser.write (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Parser.js:76:12)
+  at Protocol.write (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+  at Socket.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/Connection.js:103:28)
+  at emitOne (events.js:96:13)
+  at Socket.emit (events.js:188:7)
+  at readableAddChunk (_stream_readable.js:176:18)
+  at Socket.Readable.push (_stream_readable.js:134:10)
+  at TCP.onread (net.js:548:20)
+
+    --------------------
+  at Protocol._enqueue (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Protocol.js:141:48)
+  at PoolConnection.query (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/Connection.js:208:25)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:298:25
+  at Db._doQuery (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:323:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:280:24
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:252:16
+  at Ping.onOperationComplete [as _callback] (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/Pool.js:110:5)
+  at Ping.Sequence.end (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/sequences/Sequence.js:88:24)
+  at Ping.Sequence.OkPacket (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/sequences/Sequence.js:97:8)
+  at Protocol._parsePacket (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Protocol.js:280:23)
+  at Parser.write (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Parser.js:76:12)
+  at Protocol.write (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+  at Socket.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/Connection.js:103:28)
+  at emitOne (events.js:96:13)
+  at Socket.emit (events.js:188:7)
+  at readableAddChunk (_stream_readable.js:176:18)
+  at Socket.Readable.push (_stream_readable.js:134:10)
+  at TCP.onread (net.js:548:20)
+
+2017-08-01 14:35:19 [ERROR] (runner/hc-cover-runner/lib/app.coffee:305) /Users/Pon/Documents/Project/financial-private-group/src/modules/group.js:30
+      cb    : function ( data ) {
+      ^^
+SyntaxError: Unexpected identifier
+  at Object.exports.runInThisContext (vm.js:76:16)
+  at Module._compile (module.js:542:28)
+  at Object.Module._extensions..js (module.js:579:10)
+  at Module.load (/Users/Pon/Documents/Project/financial-private-group/node_modules/coffee-script/lib/coffee-script/register.js:45:36)
+  at tryModuleLoad (module.js:446:12)
+  at Function.Module._load (module.js:438:3)
+  at Function._load (/usr/local/lib/node_modules/pm2/node_modules/pmx/lib/transaction.js:62:21)
+  at Module.require (module.js:497:17)
+  at require (internal/module.js:20:19)
+  at Object.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/src/controllers/group.js:10:21)
+  at Module._compile (module.js:570:32)
+  at Object.Module._extensions..js (module.js:579:10)
+  at Module.load (/Users/Pon/Documents/Project/financial-private-group/node_modules/coffee-script/lib/coffee-script/register.js:45:36)
+  at tryModuleLoad (module.js:446:12)
+  at Function.Module._load (module.js:438:3)
+  at Function._load (/usr/local/lib/node_modules/pm2/node_modules/pmx/lib/transaction.js:62:21)
+  at Module.require (module.js:497:17)
+  at require (internal/module.js:20:19)
+  at App.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/runner/hc-cover-runner/lib/app.coffee:236:22)
+  at undefined.next (native)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/co/index.js:65:19)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/co/index.js:54:5
+  at App.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/co/index.js:50:10)
+  at App.createPromise [as _useMiddlewares] (/Users/Pon/Documents/Project/financial-private-group/node_modules/co/index.js:30:15)
+  at /Users/Pon/Documents/Project/financial-private-group/runner/hc-cover-runner/lib/app.coffee:317:8
+  at App.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/runner/hc-cover-runner/lib/app.coffee:164:12)
+  at undefined.next (native)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/co/index.js:65:19)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/co/index.js:54:5
+  at App.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/co/index.js:50:10)
+  at App.createPromise [as _init] (/Users/Pon/Documents/Project/financial-private-group/node_modules/co/index.js:30:15)
+  at App.run (/Users/Pon/Documents/Project/financial-private-group/runner/hc-cover-runner/lib/app.coffee:314:6)
+  at Object.start (/Users/Pon/Documents/Project/financial-private-group/lib/engine.coffee:42:13)
+  at Object.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/lib/worker.js:17:10)
+  at Module._compile (module.js:570:32)
+  at Object.Module._extensions..js (module.js:579:10)
+  at Module.load (module.js:487:32)
+  at tryModuleLoad (module.js:446:12)
+  at Function.Module._load (module.js:438:3)
+  at Function._load (/usr/local/lib/node_modules/pm2/node_modules/pmx/lib/transaction.js:62:21)
+  at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:260:23
+  at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:52:16
+  at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:1209:30
+  at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:146:13)
+  at emitOne (events.js:96:13)
+  at WriteStream.emit (events.js:188:7)
+  at WriteStream.<anonymous> (fs.js:2114:10)
+  at FSReqWrap.oncomplete (fs.js:123:15)
+
+2017-08-01 14:36:25 [ERROR] (runner/hc-cover-runner/lib/app.coffee:305) /Users/Pon/Documents/Project/financial-private-group/src/modules/group.js:30
+      cb    : function ( data ) {
+      ^^
+SyntaxError: Unexpected identifier
+  at Object.exports.runInThisContext (vm.js:76:16)
+  at Module._compile (module.js:542:28)
+  at Object.Module._extensions..js (module.js:579:10)
+  at Module.load (/Users/Pon/Documents/Project/financial-private-group/node_modules/coffee-script/lib/coffee-script/register.js:45:36)
+  at tryModuleLoad (module.js:446:12)
+  at Function.Module._load (module.js:438:3)
+  at Function._load (/usr/local/lib/node_modules/pm2/node_modules/pmx/lib/transaction.js:62:21)
+  at Module.require (module.js:497:17)
+  at require (internal/module.js:20:19)
+  at Object.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/src/controllers/group.js:10:21)
+  at Module._compile (module.js:570:32)
+  at Object.Module._extensions..js (module.js:579:10)
+  at Module.load (/Users/Pon/Documents/Project/financial-private-group/node_modules/coffee-script/lib/coffee-script/register.js:45:36)
+  at tryModuleLoad (module.js:446:12)
+  at Function.Module._load (module.js:438:3)
+  at Function._load (/usr/local/lib/node_modules/pm2/node_modules/pmx/lib/transaction.js:62:21)
+  at Module.require (module.js:497:17)
+  at require (internal/module.js:20:19)
+  at App.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/runner/hc-cover-runner/lib/app.coffee:236:22)
+  at undefined.next (native)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/co/index.js:65:19)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/co/index.js:54:5
+  at App.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/co/index.js:50:10)
+  at App.createPromise [as _useMiddlewares] (/Users/Pon/Documents/Project/financial-private-group/node_modules/co/index.js:30:15)
+  at /Users/Pon/Documents/Project/financial-private-group/runner/hc-cover-runner/lib/app.coffee:317:8
+  at App.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/runner/hc-cover-runner/lib/app.coffee:164:12)
+  at undefined.next (native)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/co/index.js:65:19)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/co/index.js:54:5
+  at App.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/co/index.js:50:10)
+  at App.createPromise [as _init] (/Users/Pon/Documents/Project/financial-private-group/node_modules/co/index.js:30:15)
+  at App.run (/Users/Pon/Documents/Project/financial-private-group/runner/hc-cover-runner/lib/app.coffee:314:6)
+  at Object.start (/Users/Pon/Documents/Project/financial-private-group/lib/engine.coffee:42:13)
+  at Object.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/lib/worker.js:17:10)
+  at Module._compile (module.js:570:32)
+  at Object.Module._extensions..js (module.js:579:10)
+  at Module.load (module.js:487:32)
+  at tryModuleLoad (module.js:446:12)
+  at Function.Module._load (module.js:438:3)
+  at Function._load (/usr/local/lib/node_modules/pm2/node_modules/pmx/lib/transaction.js:62:21)
+  at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:260:23
+  at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:52:16
+  at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:1209:30
+  at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:146:13)
+  at emitOne (events.js:96:13)
+  at WriteStream.emit (events.js:188:7)
+  at WriteStream.<anonymous> (fs.js:2114:10)
+  at FSReqWrap.oncomplete (fs.js:123:15)
+
+2017-08-01 14:38:12 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) [ERROR-MIDDLEWARE] error catched, error message: [db.transicationQuery is not a function], item: [{"message":"test","code":1000,"success":false}]
+2017-08-01 14:38:12 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) --------------
+2017-08-01 14:38:12 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) TypeError: db.transicationQuery is not a function
+  at Group.createGroup (/Users/Pon/Documents/Project/financial-private-group/src/modules/group.js:39:14)
+  at undefined.next (native)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:64:19)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:53:5
+  at Object.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:49:10)
+  at Object.toPromise (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:117:63)
+  at next (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:98:29)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/node-cover/node_modules/co/index.js:68:7)
+  at process._tickDomainCallback (internal/process/next_tick.js:129:7)
+
+2017-08-01 14:38:53 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) [ERROR-MIDDLEWARE] error catched, error message: [ER_EMPTY_QUERY: Query was empty], item: [{"message":"test","code":1000,"success":false}]
+2017-08-01 14:38:53 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) --------------
+2017-08-01 14:38:53 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) Error: ER_EMPTY_QUERY: Query was empty
+  at Query.Sequence._packetToError (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/sequences/Sequence.js:52:14)
+  at Query.ErrorPacket (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+  at Protocol._parsePacket (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Protocol.js:280:23)
+  at Parser.write (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Parser.js:76:12)
+  at Protocol.write (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+  at Socket.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/Connection.js:103:28)
+  at emitOne (events.js:96:13)
+  at Socket.emit (events.js:188:7)
+  at readableAddChunk (_stream_readable.js:176:18)
+  at Socket.Readable.push (_stream_readable.js:134:10)
+  at TCP.onread (net.js:548:20)
+
+    --------------------
+  at Protocol._enqueue (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Protocol.js:141:48)
+  at PoolConnection.query (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/Connection.js:208:25)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:298:25
+  at Db._doQuery (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:323:7)
+  at Db._wrapQuery (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:272:19)
+  at Function.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:183:23)
+  at Query._callback (/Users/Pon/Documents/Project/financial-private-group/node_modules/event-pipe/lib/event-pipe.coffee:48:12)
+  at Query.Sequence.end (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/sequences/Sequence.js:88:24)
+  at Query._handleFinalResultPacket (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/sequences/Query.js:139:8)
+  at Query.OkPacket (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/sequences/Query.js:72:10)
+  at Protocol._parsePacket (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Protocol.js:280:23)
+  at Parser.write (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Parser.js:76:12)
+  at Protocol.write (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+  at Socket.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/Connection.js:103:28)
+  at emitOne (events.js:96:13)
+  at Socket.emit (events.js:188:7)
+  at readableAddChunk (_stream_readable.js:176:18)
+  at Socket.Readable.push (_stream_readable.js:134:10)
+  at TCP.onread (net.js:548:20)
+
+2017-08-01 14:53:29 [ERROR] (runner/hc-cover-runner/lib/app.coffee:305) ReferenceError: BIND_Group_2_USER is not defined
+  at Object.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/src/models/group.js:58:20)
+  at Module._compile (module.js:570:32)
+  at Object.Module._extensions..js (module.js:579:10)
+  at Module.load (/Users/Pon/Documents/Project/financial-private-group/node_modules/coffee-script/lib/coffee-script/register.js:45:36)
+  at tryModuleLoad (module.js:446:12)
+  at Function.Module._load (module.js:438:3)
+  at Function._load (/usr/local/lib/node_modules/pm2/node_modules/pmx/lib/transaction.js:62:21)
+  at Module.require (module.js:497:17)
+  at require (internal/module.js:20:19)
+  at Object.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/src/modules/group.js:11:20)
+  at Module._compile (module.js:570:32)
+  at Object.Module._extensions..js (module.js:579:10)
+  at Module.load (/Users/Pon/Documents/Project/financial-private-group/node_modules/coffee-script/lib/coffee-script/register.js:45:36)
+  at tryModuleLoad (module.js:446:12)
+  at Function.Module._load (module.js:438:3)
+  at Function._load (/usr/local/lib/node_modules/pm2/node_modules/pmx/lib/transaction.js:62:21)
+  at Module.require (module.js:497:17)
+  at require (internal/module.js:20:19)
+  at Object.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/src/controllers/group.js:10:21)
+  at Module._compile (module.js:570:32)
+  at Object.Module._extensions..js (module.js:579:10)
+  at Module.load (/Users/Pon/Documents/Project/financial-private-group/node_modules/coffee-script/lib/coffee-script/register.js:45:36)
+  at tryModuleLoad (module.js:446:12)
+  at Function.Module._load (module.js:438:3)
+  at Function._load (/usr/local/lib/node_modules/pm2/node_modules/pmx/lib/transaction.js:62:21)
+  at Module.require (module.js:497:17)
+  at require (internal/module.js:20:19)
+  at App.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/runner/hc-cover-runner/lib/app.coffee:236:22)
+  at undefined.next (native)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/co/index.js:65:19)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/co/index.js:54:5
+  at App.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/co/index.js:50:10)
+  at App.createPromise [as _useMiddlewares] (/Users/Pon/Documents/Project/financial-private-group/node_modules/co/index.js:30:15)
+  at /Users/Pon/Documents/Project/financial-private-group/runner/hc-cover-runner/lib/app.coffee:317:8
+  at App.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/runner/hc-cover-runner/lib/app.coffee:164:12)
+  at undefined.next (native)
+  at onFulfilled (/Users/Pon/Documents/Project/financial-private-group/node_modules/co/index.js:65:19)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/co/index.js:54:5
+  at App.co (/Users/Pon/Documents/Project/financial-private-group/node_modules/co/index.js:50:10)
+  at App.createPromise [as _init] (/Users/Pon/Documents/Project/financial-private-group/node_modules/co/index.js:30:15)
+  at App.run (/Users/Pon/Documents/Project/financial-private-group/runner/hc-cover-runner/lib/app.coffee:314:6)
+  at Object.start (/Users/Pon/Documents/Project/financial-private-group/lib/engine.coffee:42:13)
+  at Object.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/lib/worker.js:17:10)
+  at Module._compile (module.js:570:32)
+  at Object.Module._extensions..js (module.js:579:10)
+  at Module.load (module.js:487:32)
+  at tryModuleLoad (module.js:446:12)
+  at Function.Module._load (module.js:438:3)
+  at Function._load (/usr/local/lib/node_modules/pm2/node_modules/pmx/lib/transaction.js:62:21)
+  at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:260:23
+  at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:52:16
+  at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:1209:30
+  at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:146:13)
+  at emitOne (events.js:96:13)
+  at WriteStream.emit (events.js:188:7)
+  at WriteStream.<anonymous> (fs.js:2114:10)
+  at FSReqWrap.oncomplete (fs.js:123:15)
+
+2017-08-01 14:53:54 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) [ERROR-MIDDLEWARE] error catched, error message: [ER_BAD_NULL_ERROR: Column 'name' cannot be null], item: [{"message":"test","code":1000,"success":false}]
+2017-08-01 14:53:54 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) --------------
+2017-08-01 14:53:54 [ERROR] (node_modules/node-cover/node_modules/co/index.js:80) Error: ER_BAD_NULL_ERROR: Column 'name' cannot be null
+  at Query.Sequence._packetToError (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/sequences/Sequence.js:52:14)
+  at Query.ErrorPacket (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+  at Protocol._parsePacket (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Protocol.js:280:23)
+  at Parser.write (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Parser.js:76:12)
+  at Protocol.write (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+  at Socket.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/Connection.js:103:28)
+  at emitOne (events.js:96:13)
+  at Socket.emit (events.js:188:7)
+  at readableAddChunk (_stream_readable.js:176:18)
+  at Socket.Readable.push (_stream_readable.js:134:10)
+  at TCP.onread (net.js:548:20)
+
+    --------------------
+  at Protocol._enqueue (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Protocol.js:141:48)
+  at PoolConnection.query (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/Connection.js:208:25)
+  at /Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:298:25
+  at Db._doQuery (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:323:7)
+  at Db._wrapQuery (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:272:19)
+  at Function.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/index.js:183:23)
+  at Query._callback (/Users/Pon/Documents/Project/financial-private-group/node_modules/event-pipe/lib/event-pipe.coffee:48:12)
+  at Query.Sequence.end (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/sequences/Sequence.js:88:24)
+  at Query._handleFinalResultPacket (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/sequences/Query.js:139:8)
+  at Query.OkPacket (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/sequences/Query.js:72:10)
+  at Protocol._parsePacket (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Protocol.js:280:23)
+  at Parser.write (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Parser.js:76:12)
+  at Protocol.write (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+  at Socket.<anonymous> (/Users/Pon/Documents/Project/financial-private-group/node_modules/fresh-mysql/node_modules/mysql/lib/Connection.js:103:28)
+  at emitOne (events.js:96:13)
+  at Socket.emit (events.js:188:7)
+  at readableAddChunk (_stream_readable.js:176:18)
+  at Socket.Readable.push (_stream_readable.js:134:10)
+  at TCP.onread (net.js:548:20)
+
